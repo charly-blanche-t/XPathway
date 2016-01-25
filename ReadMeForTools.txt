@@ -1,5 +1,9 @@
 Pathway tools to infer metabolic pathway activity level and significance
+<<<<<<< HEAD
 website.rar contain all necessary files
+=======
+Website.rar contain all necessary files
+>>>>>>> 48090aa0d3f95a2dedca3998352f2bcbea48e1f5
 
 Java code: KoNames.java
 To Download all ko names.
