@@ -1,5 +1,5 @@
 Pathway tools to infer metabolic pathway activity level and significance
-KGMLPathway2Graph_Tool.rar contain all necessary files
+Website.rar contain all necessary files
 
 Java code: KoNames.java
 To Download all ko names.
