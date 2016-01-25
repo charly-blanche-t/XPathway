@@ -1,4 +1,5 @@
 Pathway tools to infer metabolic pathway activity level and significance
+website.rar contain all necessary files
 
 Java code: KoNames.java
 To Download all ko names.
@@ -21,4 +22,7 @@ The main code above will compute expression level of pathway with input a text f
 
 2: Pathway significance: Create_Green_Graph_Vertices_final_v4.py or Create_Green_Graph_edges_final_v4.py
 The main class generate original and random green graph in memory representing KGML from KEGG. Those graph are then analyzed for their significance.
-Input: set of ko names for green nodes along with all the pathways or network graphs as text files (these are referred as groups from KGMLPathway2Graph)
+Input: set of ko names for green nodes along with all the pathways or network graphs as text files (these are referred as groups from KGMLPathway2Graph another package also part of XPathway)
+
+Link to Python files:
+https://github.com/charly-blanche-t/XPathway.git
